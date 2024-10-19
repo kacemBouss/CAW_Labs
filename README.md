@@ -1,2 +1,3 @@
-kacem bousnane 
-now i'm alone
+the full name: kacem bousnane 
+the group: 2
+i'm a monome
