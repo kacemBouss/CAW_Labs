@@ -1,0 +1,12 @@
+# create all our files and folders
+touch <adding our files>
+mkdir <adding our folders>
+
+# add all new files and folders 
+git add .
+
+# commit our changes with the branch
+git commit -m "we can do our notes about our changes and commits"
+
+# push our new files and folders to our branch
+git push origin <the name of our local branch>
